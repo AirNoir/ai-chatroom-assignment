@@ -1,4 +1,10 @@
 // app global css in SCSS form
+
+// 设置 Source Sans Pro 为默认字体
+* {
+  font-family: 'Source Sans 3', 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+}
+
 $color-properties: (
   bg: "background-color",
   text: "color",

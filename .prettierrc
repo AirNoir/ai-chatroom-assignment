@@ -1,0 +1,16 @@
+{
+  "semi": false,
+  "singleQuote": true,
+  "importOrder": [
+    "^vue",
+    "quasar",
+    "^[^./]",
+    "^/src/api",
+    "^/src/stores",
+    "^/src/constants",
+    "^/src/utils",
+    "^/src/components",
+    "^/src/composable",
+    "^\\./"
+  ]
+}
